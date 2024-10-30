@@ -15,7 +15,6 @@ public class selection {
         {
             System.out.print(arr[i]+" ");
         }
-
         for(int i=0; i<arr.length-1; ++i)
         {
             int smallest=i;
