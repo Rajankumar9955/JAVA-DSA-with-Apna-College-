@@ -24,5 +24,4 @@ public class bubble {
             System.out.print(arr[i]+" ");
         }
     }
-    
 }
