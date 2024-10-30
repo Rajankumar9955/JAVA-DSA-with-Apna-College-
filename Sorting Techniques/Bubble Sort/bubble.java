@@ -18,6 +18,7 @@ public class bubble {
                 }
             }
         }
+        
         System.out.println("\nAfter Sorting");
         for(int i=0; i<arr.length; ++i)
         {
