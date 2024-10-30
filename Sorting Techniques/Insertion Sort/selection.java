@@ -33,5 +33,4 @@ public class selection {
         System.out.println("\nAfter Sorting");
         printArray(arr);
     }
-    
 }
