@@ -32,6 +32,5 @@ public class selection {
         }
        System.out.println("\nAfter Using selection sort");
         PrintArray(arr);
-
     }
 }
